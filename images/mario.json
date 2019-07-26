@@ -1,0 +1,4640 @@
+{
+	"frames": {
+
+		"mar_001.png": {
+			"frame": {
+				"x": 93,
+				"y": 89,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_002.png": {
+			"frame": {
+				"x": 99,
+				"y": 191,
+				"w": 15,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 21
+			}
+		},
+		"mar_003.png": {
+			"frame": {
+				"x": 46,
+				"y": 0,
+				"w": 15,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 14
+			}
+		},
+		"mar_004.png": {
+			"frame": {
+				"x": 31,
+				"y": 0,
+				"w": 15,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 14
+			}
+		},
+		"mar_005.png": {
+			"frame": {
+				"x": 108,
+				"y": 50,
+				"w": 15,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 19
+			}
+		},
+		"mar_006.png": {
+			"frame": {
+				"x": 75,
+				"y": 109,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_007.png": {
+			"frame": {
+				"x": 92,
+				"y": 50,
+				"w": 16,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 19
+			}
+		},
+		"mar_008.png": {
+			"frame": {
+				"x": 104,
+				"y": 109,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_009.png": {
+			"frame": {
+				"x": 84,
+				"y": 191,
+				"w": 15,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 21
+			}
+		},
+		"mar_010.png": {
+			"frame": {
+				"x": 46,
+				"y": 212,
+				"w": 16,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 22
+			}
+		},
+		"mar_011.png": {
+			"frame": {
+				"x": 0,
+				"y": 129,
+				"w": 16,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 20
+			}
+		},
+		"mar_012.png": {
+			"frame": {
+				"x": 16,
+				"y": 129,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_013.png": {
+			"frame": {
+				"x": 89,
+				"y": 109,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_014.png": {
+			"frame": {
+				"x": 61,
+				"y": 109,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_015.png": {
+			"frame": {
+				"x": 107,
+				"y": 89,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_016.png": {
+			"frame": {
+				"x": 16,
+				"y": 109,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_017.png": {
+			"frame": {
+				"x": 48,
+				"y": 129,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_018.png": {
+			"frame": {
+				"x": 78,
+				"y": 31,
+				"w": 16,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 18
+			}
+		},
+		"mar_019.png": {
+			"frame": {
+				"x": 76,
+				"y": 50,
+				"w": 16,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 19
+			}
+		},
+		"mar_020.png": {
+			"frame": {
+				"x": 45,
+				"y": 109,
+				"w": 16,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 20
+			}
+		},
+		"mar_021.png": {
+			"frame": {
+				"x": 62,
+				"y": 31,
+				"w": 16,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 18
+			}
+		},
+		"mar_022.png": {
+			"frame": {
+				"x": 61,
+				"y": 50,
+				"w": 15,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 19
+			}
+		},
+		"mar_023.png": {
+			"frame": {
+				"x": 30,
+				"y": 109,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_024.png": {
+			"frame": {
+				"x": 46,
+				"y": 31,
+				"w": 16,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 18
+			}
+		},
+		"mar_025.png": {
+			"frame": {
+				"x": 0,
+				"y": 109,
+				"w": 16,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 20
+			}
+		},
+		"mar_026.png": {
+			"frame": {
+				"x": 31,
+				"y": 149,
+				"w": 16,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 20
+			}
+		},
+		"mar_027.png": {
+			"frame": {
+				"x": 0,
+				"y": 69,
+				"w": 15,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 19
+			}
+		},
+		"mar_028.png": {
+			"frame": {
+				"x": 50,
+				"y": 235,
+				"w": 16,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 24
+			}
+		},
+		"mar_029.png": {
+			"frame": {
+				"x": 66,
+				"y": 235,
+				"w": 16,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 24
+			}
+		},
+		"mar_030.png": {
+			"frame": {
+				"x": 16,
+				"y": 212,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_031.png": {
+			"frame": {
+				"x": 17,
+				"y": 235,
+				"w": 16,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 24
+			}
+		},
+		"mar_032.png": {
+			"frame": {
+				"x": 37,
+				"y": 422,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_033.png": {
+			"frame": {
+				"x": 16,
+				"y": 149,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_034.png": {
+			"frame": {
+				"x": 0,
+				"y": 212,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_035.png": {
+			"frame": {
+				"x": 47,
+				"y": 15,
+				"w": 16,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 16
+			}
+		},
+		"mar_036.png": {
+			"frame": {
+				"x": 94,
+				"y": 31,
+				"w": 15,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 19
+			}
+		},
+		"mar_037.png": {
+			"frame": {
+				"x": 90,
+				"y": 129,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_038.png": {
+			"frame": {
+				"x": 109,
+				"y": 31,
+				"w": 15,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 19
+			}
+		},
+		"mar_039.png": {
+			"frame": {
+				"x": 0,
+				"y": 50,
+				"w": 15,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 19
+			}
+		},
+		"mar_040.png": {
+			"frame": {
+				"x": 0,
+				"y": 149,
+				"w": 16,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 20
+			}
+		},
+		"mar_041.png": {
+			"frame": {
+				"x": 105,
+				"y": 129,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_042.png": {
+			"frame": {
+				"x": 30,
+				"y": 50,
+				"w": 15,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 19
+			}
+		},
+		"mar_043.png": {
+			"frame": {
+				"x": 62,
+				"y": 129,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_044.png": {
+			"frame": {
+				"x": 15,
+				"y": 50,
+				"w": 15,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 19
+			}
+		},
+		"mar_045.png": {
+			"frame": {
+				"x": 16,
+				"y": 31,
+				"w": 15,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 18
+			}
+		},
+		"mar_046.png": {
+			"frame": {
+				"x": 78,
+				"y": 212,
+				"w": 14,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 22
+			}
+		},
+		"mar_047.png": {
+			"frame": {
+				"x": 76,
+				"y": 129,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_048.png": {
+			"frame": {
+				"x": 15,
+				"y": 89,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_049.png": {
+			"frame": {
+				"x": 15,
+				"y": 69,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_050.png": {
+			"frame": {
+				"x": 30,
+				"y": 69,
+				"w": 16,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 20
+			}
+		},
+		"mar_051.png": {
+			"frame": {
+				"x": 62,
+				"y": 212,
+				"w": 16,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 22
+			}
+		},
+		"mar_052.png": {
+			"frame": {
+				"x": 63,
+				"y": 69,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_053.png": {
+			"frame": {
+				"x": 78,
+				"y": 69,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_054.png": {
+			"frame": {
+				"x": 63,
+				"y": 15,
+				"w": 16,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 16
+			}
+		},
+		"mar_055.png": {
+			"frame": {
+				"x": 62,
+				"y": 89,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_056.png": {
+			"frame": {
+				"x": 30,
+				"y": 89,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_057.png": {
+			"frame": {
+				"x": 108,
+				"y": 69,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"mar_058.png": {
+			"frame": {
+				"x": 93,
+				"y": 69,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_059.png": {
+			"frame": {
+				"x": 0,
+				"y": 89,
+				"w": 15,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 20
+			}
+		},
+		"mar_060.png": {
+			"frame": {
+				"x": 32,
+				"y": 212,
+				"w": 14,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 21
+			}
+		},
+		"mar_061.png": {
+			"frame": {
+				"x": 31,
+				"y": 31,
+				"w": 15,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 18
+			}
+		},
+		"mar_062.png": {
+			"frame": {
+				"x": 77,
+				"y": 89,
+				"w": 16,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 20
+			}
+		},
+		"mar_063.png": {
+			"frame": {
+				"x": 108,
+				"y": 212,
+				"w": 16,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 23
+			}
+		},
+		"mar_064.png": {
+			"frame": {
+				"x": 0,
+				"y": 260,
+				"w": 16,
+				"h": 25
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 25
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 25
+			}
+		},
+		"mar_065.png": {
+			"frame": {
+				"x": 31,
+				"y": 15,
+				"w": 16,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 16
+			}
+		},
+		"mar_066.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 13
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 13
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 13
+			}
+		},
+		"mar_067.png": {
+			"frame": {
+				"x": 0,
+				"y": 15,
+				"w": 15,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 15
+			}
+		},
+		"mar_068.png": {
+			"frame": {
+				"x": 79,
+				"y": 15,
+				"w": 15,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 16
+			}
+		},
+		"mar_069.png": {
+			"frame": {
+				"x": 0,
+				"y": 31,
+				"w": 16,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 16
+			}
+		},
+		"mar_070.png": {
+			"frame": {
+				"x": 94,
+				"y": 15,
+				"w": 15,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 16
+			}
+		},
+		"mar_071.png": {
+			"frame": {
+				"x": 109,
+				"y": 15,
+				"w": 16,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 16
+			}
+		},
+		"mar_072.png": {
+			"frame": {
+				"x": 45,
+				"y": 50,
+				"w": 16,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 19
+			}
+		},
+		"mar_073.png": {
+			"frame": {
+				"x": 92,
+				"y": 212,
+				"w": 16,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 23
+			}
+		},
+		"mar_074.png": {
+			"frame": {
+				"x": 66,
+				"y": 618,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_075.png": {
+			"frame": {
+				"x": 97,
+				"y": 313,
+				"w": 15,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 27
+			}
+		},
+		"mar_076.png": {
+			"frame": {
+				"x": 77,
+				"y": 0,
+				"w": 16,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 15
+			}
+		},
+		"mar_077.png": {
+			"frame": {
+				"x": 93,
+				"y": 0,
+				"w": 16,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 15
+			}
+		},
+		"mar_078.png": {
+			"frame": {
+				"x": 112,
+				"y": 313,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_079.png": {
+			"frame": {
+				"x": 100,
+				"y": 590,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_080.png": {
+			"frame": {
+				"x": 63,
+				"y": 590,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_081.png": {
+			"frame": {
+				"x": 105,
+				"y": 286,
+				"w": 18,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 27
+			}
+		},
+		"mar_082.png": {
+			"frame": {
+				"x": 47,
+				"y": 562,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_083.png": {
+			"frame": {
+				"x": 0,
+				"y": 506,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_084.png": {
+			"frame": {
+				"x": 80,
+				"y": 646,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_085.png": {
+			"frame": {
+				"x": 18,
+				"y": 734,
+				"w": 16,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 31
+			}
+		},
+		"mar_086.png": {
+			"frame": {
+				"x": 0,
+				"y": 704,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_087.png": {
+			"frame": {
+				"x": 73,
+				"y": 260,
+				"w": 19,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 26
+			}
+		},
+		"mar_088.png": {
+			"frame": {
+				"x": 109,
+				"y": 260,
+				"w": 19,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 26
+			}
+		},
+		"mar_089.png": {
+			"frame": {
+				"x": 0,
+				"y": 562,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_090.png": {
+			"frame": {
+				"x": 15,
+				"y": 562,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_091.png": {
+			"frame": {
+				"x": 99,
+				"y": 534,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_092.png": {
+			"frame": {
+				"x": 31,
+				"y": 562,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_093.png": {
+			"frame": {
+				"x": 36,
+				"y": 260,
+				"w": 20,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 26
+			}
+		},
+		"mar_094.png": {
+			"frame": {
+				"x": 96,
+				"y": 367,
+				"w": 20,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 27
+			}
+		},
+		"mar_095.png": {
+			"frame": {
+				"x": 0,
+				"y": 394,
+				"w": 20,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 27
+			}
+		},
+		"mar_096.png": {
+			"frame": {
+				"x": 20,
+				"y": 286,
+				"w": 20,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 26
+			}
+		},
+		"mar_097.png": {
+			"frame": {
+				"x": 20,
+				"y": 394,
+				"w": 19,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 27
+			}
+		},
+		"mar_098.png": {
+			"frame": {
+				"x": 39,
+				"y": 394,
+				"w": 19,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 27
+			}
+		},
+		"mar_099.png": {
+			"frame": {
+				"x": 80,
+				"y": 367,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_100.png": {
+			"frame": {
+				"x": 96,
+				"y": 646,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_101.png": {
+			"frame": {
+				"x": 64,
+				"y": 646,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_102.png": {
+			"frame": {
+				"x": 82,
+				"y": 235,
+				"w": 16,
+				"h": 25
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 25
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 25
+			}
+		},
+		"mar_103.png": {
+			"frame": {
+				"x": 65,
+				"y": 562,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_104.png": {
+			"frame": {
+				"x": 66,
+				"y": 704,
+				"w": 17,
+				"h": 30
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 30
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 30
+			}
+		},
+		"mar_105.png": {
+			"frame": {
+				"x": 17,
+				"y": 766,
+				"w": 17,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 32
+			}
+		},
+		"mar_106.png": {
+			"frame": {
+				"x": 97,
+				"y": 562,
+				"w": 28,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 28,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 28,
+				"h": 28
+			}
+		},
+		"mar_107.png": {
+			"frame": {
+				"x": 0,
+				"y": 590,
+				"w": 29,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 29,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 29,
+				"h": 28
+			}
+		},
+		"mar_108.png": {
+			"frame": {
+				"x": 78,
+				"y": 286,
+				"w": 27,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 26
+			}
+		},
+		"mar_109.png": {
+			"frame": {
+				"x": 34,
+				"y": 734,
+				"w": 25,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 25,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 25,
+				"h": 31
+			}
+		},
+		"mar_110.png": {
+			"frame": {
+				"x": 34,
+				"y": 766,
+				"w": 24,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 32
+			}
+		},
+		"mar_111.png": {
+			"frame": {
+				"x": 58,
+				"y": 766,
+				"w": 16,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 40
+			}
+		},
+		"mar_112.png": {
+			"frame": {
+				"x": 81,
+				"y": 562,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_113.png": {
+			"frame": {
+				"x": 33,
+				"y": 367,
+				"w": 15,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 27
+			}
+		},
+		"mar_114.png": {
+			"frame": {
+				"x": 64,
+				"y": 149,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_115.png": {
+			"frame": {
+				"x": 64,
+				"y": 367,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_116.png": {
+			"frame": {
+				"x": 83,
+				"y": 534,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_117.png": {
+			"frame": {
+				"x": 67,
+				"y": 534,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_118.png": {
+			"frame": {
+				"x": 0,
+				"y": 367,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_119.png": {
+			"frame": {
+				"x": 48,
+				"y": 367,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_120.png": {
+			"frame": {
+				"x": 53,
+				"y": 506,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_121.png": {
+			"frame": {
+				"x": 69,
+				"y": 506,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_122.png": {
+			"frame": {
+				"x": 16,
+				"y": 367,
+				"w": 17,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 27
+			}
+		},
+		"mar_123.png": {
+			"frame": {
+				"x": 36,
+				"y": 506,
+				"w": 17,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 28
+			}
+		},
+		"mar_124.png": {
+			"frame": {
+				"x": 29,
+				"y": 590,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_125.png": {
+			"frame": {
+				"x": 85,
+				"y": 506,
+				"w": 17,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 28
+			}
+		},
+		"mar_126.png": {
+			"frame": {
+				"x": 92,
+				"y": 260,
+				"w": 17,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 26
+			}
+		},
+		"mar_127.png": {
+			"frame": {
+				"x": 0,
+				"y": 534,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_128.png": {
+			"frame": {
+				"x": 34,
+				"y": 534,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_129.png": {
+			"frame": {
+				"x": 49,
+				"y": 534,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_130.png": {
+			"frame": {
+				"x": 16,
+				"y": 534,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_131.png": {
+			"frame": {
+				"x": 102,
+				"y": 506,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_132.png": {
+			"frame": {
+				"x": 59,
+				"y": 734,
+				"w": 16,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 31
+			}
+		},
+		"mar_133.png": {
+			"frame": {
+				"x": 18,
+				"y": 506,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_134.png": {
+			"frame": {
+				"x": 16,
+				"y": 704,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_135.png": {
+			"frame": {
+				"x": 80,
+				"y": 149,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_136.png": {
+			"frame": {
+				"x": 32,
+				"y": 675,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_137.png": {
+			"frame": {
+				"x": 32,
+				"y": 704,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_138.png": {
+			"frame": {
+				"x": 81,
+				"y": 618,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_139.png": {
+			"frame": {
+				"x": 48,
+				"y": 675,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_140.png": {
+			"frame": {
+				"x": 80,
+				"y": 675,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_141.png": {
+			"frame": {
+				"x": 96,
+				"y": 675,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_142.png": {
+			"frame": {
+				"x": 78,
+				"y": 590,
+				"w": 22,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 28
+			}
+		},
+		"mar_143.png": {
+			"frame": {
+				"x": 45,
+				"y": 590,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_144.png": {
+			"frame": {
+				"x": 0,
+				"y": 734,
+				"w": 18,
+				"h": 30
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 30
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 30
+			}
+		},
+		"mar_145.png": {
+			"frame": {
+				"x": 75,
+				"y": 734,
+				"w": 18,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 31
+			}
+		},
+		"mar_146.png": {
+			"frame": {
+				"x": 96,
+				"y": 149,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_147.png": {
+			"frame": {
+				"x": 61,
+				"y": 0,
+				"w": 16,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 14
+			}
+		},
+		"mar_148.png": {
+			"frame": {
+				"x": 46,
+				"y": 69,
+				"w": 17,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 20
+			}
+		},
+		"mar_149.png": {
+			"frame": {
+				"x": 0,
+				"y": 170,
+				"w": 17,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 21
+			}
+		},
+		"mar_150.png": {
+			"frame": {
+				"x": 85,
+				"y": 170,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_151.png": {
+			"frame": {
+				"x": 16,
+				"y": 191,
+				"w": 17,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 21
+			}
+		},
+		"mar_152.png": {
+			"frame": {
+				"x": 45,
+				"y": 89,
+				"w": 17,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 20
+			}
+		},
+		"mar_153.png": {
+			"frame": {
+				"x": 68,
+				"y": 170,
+				"w": 17,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 21
+			}
+		},
+		"mar_154.png": {
+			"frame": {
+				"x": 33,
+				"y": 235,
+				"w": 17,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 24
+			}
+		},
+		"mar_155.png": {
+			"frame": {
+				"x": 18,
+				"y": 618,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_156.png": {
+			"frame": {
+				"x": 47,
+				"y": 313,
+				"w": 15,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 27
+			}
+		},
+		"mar_157.png": {
+			"frame": {
+				"x": 15,
+				"y": 15,
+				"w": 16,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 15
+			}
+		},
+		"mar_158.png": {
+			"frame": {
+				"x": 109,
+				"y": 0,
+				"w": 16,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 15
+			}
+		},
+		"mar_159.png": {
+			"frame": {
+				"x": 93,
+				"y": 340,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_160.png": {
+			"frame": {
+				"x": 97,
+				"y": 618,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_161.png": {
+			"frame": {
+				"x": 51,
+				"y": 618,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_162.png": {
+			"frame": {
+				"x": 0,
+				"y": 340,
+				"w": 18,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 27
+			}
+		},
+		"mar_163.png": {
+			"frame": {
+				"x": 33,
+				"y": 618,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_164.png": {
+			"frame": {
+				"x": 0,
+				"y": 618,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_165.png": {
+			"frame": {
+				"x": 64,
+				"y": 675,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_166.png": {
+			"frame": {
+				"x": 100,
+				"y": 704,
+				"w": 16,
+				"h": 30
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 30
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 30
+			}
+		},
+		"mar_167.png": {
+			"frame": {
+				"x": 34,
+				"y": 450,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_168.png": {
+			"frame": {
+				"x": 40,
+				"y": 286,
+				"w": 19,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 26
+			}
+		},
+		"mar_169.png": {
+			"frame": {
+				"x": 59,
+				"y": 286,
+				"w": 19,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 26
+			}
+		},
+		"mar_170.png": {
+			"frame": {
+				"x": 0,
+				"y": 422,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_171.png": {
+			"frame": {
+				"x": 69,
+				"y": 422,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_172.png": {
+			"frame": {
+				"x": 74,
+				"y": 394,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_173.png": {
+			"frame": {
+				"x": 0,
+				"y": 478,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_174.png": {
+			"frame": {
+				"x": 16,
+				"y": 260,
+				"w": 20,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 26
+			}
+		},
+		"mar_175.png": {
+			"frame": {
+				"x": 34,
+				"y": 340,
+				"w": 20,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 27
+			}
+		},
+		"mar_176.png": {
+			"frame": {
+				"x": 73,
+				"y": 340,
+				"w": 20,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 27
+			}
+		},
+		"mar_177.png": {
+			"frame": {
+				"x": 0,
+				"y": 286,
+				"w": 20,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 26
+			}
+		},
+		"mar_178.png": {
+			"frame": {
+				"x": 54,
+				"y": 340,
+				"w": 19,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 27
+			}
+		},
+		"mar_179.png": {
+			"frame": {
+				"x": 78,
+				"y": 313,
+				"w": 19,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 27
+			}
+		},
+		"mar_180.png": {
+			"frame": {
+				"x": 15,
+				"y": 313,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_181.png": {
+			"frame": {
+				"x": 32,
+				"y": 646,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_182.png": {
+			"frame": {
+				"x": 112,
+				"y": 675,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_183.png": {
+			"frame": {
+				"x": 98,
+				"y": 235,
+				"w": 16,
+				"h": 25
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 25
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 25
+			}
+		},
+		"mar_184.png": {
+			"frame": {
+				"x": 80,
+				"y": 478,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_185.png": {
+			"frame": {
+				"x": 83,
+				"y": 704,
+				"w": 17,
+				"h": 30
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 30
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 30
+			}
+		},
+		"mar_186.png": {
+			"frame": {
+				"x": 0,
+				"y": 766,
+				"w": 17,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 32
+			}
+		},
+		"mar_187.png": {
+			"frame": {
+				"x": 32,
+				"y": 478,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_188.png": {
+			"frame": {
+				"x": 97,
+				"y": 450,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_189.png": {
+			"frame": {
+				"x": 0,
+				"y": 313,
+				"w": 15,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 27
+			}
+		},
+		"mar_190.png": {
+			"frame": {
+				"x": 101,
+				"y": 170,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_191.png": {
+			"frame": {
+				"x": 62,
+				"y": 313,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_192.png": {
+			"frame": {
+				"x": 81,
+				"y": 450,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_193.png": {
+			"frame": {
+				"x": 50,
+				"y": 450,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_194.png": {
+			"frame": {
+				"x": 31,
+				"y": 313,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_195.png": {
+			"frame": {
+				"x": 18,
+				"y": 340,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_196.png": {
+			"frame": {
+				"x": 16,
+				"y": 478,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_197.png": {
+			"frame": {
+				"x": 66,
+				"y": 450,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_198.png": {
+			"frame": {
+				"x": 109,
+				"y": 340,
+				"w": 16,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 27
+			}
+		},
+		"mar_199.png": {
+			"frame": {
+				"x": 0,
+				"y": 450,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_200.png": {
+			"frame": {
+				"x": 103,
+				"y": 422,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_201.png": {
+			"frame": {
+				"x": 63,
+				"y": 478,
+				"w": 17,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 28
+			}
+		},
+		"mar_202.png": {
+			"frame": {
+				"x": 56,
+				"y": 260,
+				"w": 17,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 26
+			}
+		},
+		"mar_203.png": {
+			"frame": {
+				"x": 96,
+				"y": 478,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_204.png": {
+			"frame": {
+				"x": 48,
+				"y": 478,
+				"w": 15,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 28
+			}
+		},
+		"mar_205.png": {
+			"frame": {
+				"x": 85,
+				"y": 422,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_206.png": {
+			"frame": {
+				"x": 16,
+				"y": 450,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_207.png": {
+			"frame": {
+				"x": 53,
+				"y": 422,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_208.png": {
+			"frame": {
+				"x": 93,
+				"y": 734,
+				"w": 16,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 31
+			}
+		},
+		"mar_209.png": {
+			"frame": {
+				"x": 89,
+				"y": 394,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_210.png": {
+			"frame": {
+				"x": 16,
+				"y": 646,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_211.png": {
+			"frame": {
+				"x": 33,
+				"y": 191,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_212.png": {
+			"frame": {
+				"x": 0,
+				"y": 646,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_213.png": {
+			"frame": {
+				"x": 48,
+				"y": 646,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_214.png": {
+			"frame": {
+				"x": 58,
+				"y": 394,
+				"w": 16,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 28
+			}
+		},
+		"mar_215.png": {
+			"frame": {
+				"x": 0,
+				"y": 675,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_216.png": {
+			"frame": {
+				"x": 112,
+				"y": 646,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_217.png": {
+			"frame": {
+				"x": 16,
+				"y": 675,
+				"w": 16,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 29
+			}
+		},
+		"mar_218.png": {
+			"frame": {
+				"x": 15,
+				"y": 422,
+				"w": 22,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 28
+			}
+		},
+		"mar_219.png": {
+			"frame": {
+				"x": 107,
+				"y": 394,
+				"w": 18,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 28
+			}
+		},
+		"mar_220.png": {
+			"frame": {
+				"x": 48,
+				"y": 704,
+				"w": 18,
+				"h": 30
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 30
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 30
+			}
+		},
+		"mar_221.png": {
+			"frame": {
+				"x": 109,
+				"y": 734,
+				"w": 18,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 32
+			}
+		},
+		"mar_222.png": {
+			"frame": {
+				"x": 0,
+				"y": 191,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_223.png": {
+			"frame": {
+				"x": 15,
+				"y": 0,
+				"w": 16,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 14
+			}
+		},
+		"mar_224.png": {
+			"frame": {
+				"x": 47,
+				"y": 149,
+				"w": 17,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 20
+			}
+		},
+		"mar_225.png": {
+			"frame": {
+				"x": 51,
+				"y": 170,
+				"w": 17,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 21
+			}
+		},
+		"mar_226.png": {
+			"frame": {
+				"x": 49,
+				"y": 191,
+				"w": 16,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 21
+			}
+		},
+		"mar_227.png": {
+			"frame": {
+				"x": 34,
+				"y": 170,
+				"w": 17,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 21
+			}
+		},
+		"mar_228.png": {
+			"frame": {
+				"x": 31,
+				"y": 129,
+				"w": 17,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 20
+			}
+		},
+		"mar_229.png": {
+			"frame": {
+				"x": 17,
+				"y": 170,
+				"w": 17,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 21
+			}
+		},
+		"mar_230.png": {
+			"frame": {
+				"x": 0,
+				"y": 235,
+				"w": 17,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 24
+			}
+		},
+		"mar_231.png": {
+			"frame": {
+				"x": 65,
+				"y": 191,
+				"w": 19,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 21
+			}
+		}
+	},
+	"animations": {
+		"mar": ["mar_001.png", "mar_002.png", "mar_003.png", "mar_004.png", "mar_005.png", "mar_006.png", "mar_007.png", "mar_008.png", "mar_009.png", "mar_010.png", "mar_011.png", "mar_012.png", "mar_013.png", "mar_014.png", "mar_015.png", "mar_016.png", "mar_017.png", "mar_018.png", "mar_019.png", "mar_020.png", "mar_021.png", "mar_022.png", "mar_023.png", "mar_024.png", "mar_025.png", "mar_026.png", "mar_027.png", "mar_028.png", "mar_029.png", "mar_030.png", "mar_031.png", "mar_032.png", "mar_033.png", "mar_034.png", "mar_035.png", "mar_036.png", "mar_037.png", "mar_038.png", "mar_039.png", "mar_040.png", "mar_041.png", "mar_042.png", "mar_043.png", "mar_044.png", "mar_045.png", "mar_046.png", "mar_047.png", "mar_048.png", "mar_049.png", "mar_050.png", "mar_051.png", "mar_052.png", "mar_053.png", "mar_054.png", "mar_055.png", "mar_056.png", "mar_057.png", "mar_058.png", "mar_059.png", "mar_060.png", "mar_061.png", "mar_062.png", "mar_063.png", "mar_064.png", "mar_065.png", "mar_066.png", "mar_067.png", "mar_068.png", "mar_069.png", "mar_070.png", "mar_071.png", "mar_072.png", "mar_073.png", "mar_074.png", "mar_075.png", "mar_076.png", "mar_077.png", "mar_078.png", "mar_079.png", "mar_080.png", "mar_081.png", "mar_082.png", "mar_083.png", "mar_084.png", "mar_085.png", "mar_086.png", "mar_087.png", "mar_088.png", "mar_089.png", "mar_090.png", "mar_091.png", "mar_092.png", "mar_093.png", "mar_094.png", "mar_095.png", "mar_096.png", "mar_097.png", "mar_098.png", "mar_099.png", "mar_100.png", "mar_101.png", "mar_102.png", "mar_103.png", "mar_104.png", "mar_105.png", "mar_106.png", "mar_107.png", "mar_108.png", "mar_109.png", "mar_110.png", "mar_111.png", "mar_112.png", "mar_113.png", "mar_114.png", "mar_115.png", "mar_116.png", "mar_117.png", "mar_118.png", "mar_119.png", "mar_120.png", "mar_121.png", "mar_122.png", "mar_123.png", "mar_124.png", "mar_125.png", "mar_126.png", "mar_127.png", "mar_128.png", "mar_129.png", "mar_130.png", "mar_131.png", "mar_132.png", "mar_133.png", "mar_134.png", "mar_135.png", "mar_136.png", "mar_137.png", "mar_138.png", "mar_139.png", "mar_140.png", "mar_141.png", "mar_142.png", "mar_143.png", "mar_144.png", "mar_145.png", "mar_146.png", "mar_147.png", "mar_148.png", "mar_149.png", "mar_150.png", "mar_151.png", "mar_152.png", "mar_153.png", "mar_154.png", "mar_155.png", "mar_156.png", "mar_157.png", "mar_158.png", "mar_159.png", "mar_160.png", "mar_161.png", "mar_162.png", "mar_163.png", "mar_164.png", "mar_165.png", "mar_166.png", "mar_167.png", "mar_168.png", "mar_169.png", "mar_170.png", "mar_171.png", "mar_172.png", "mar_173.png", "mar_174.png", "mar_175.png", "mar_176.png", "mar_177.png", "mar_178.png", "mar_179.png", "mar_180.png", "mar_181.png", "mar_182.png", "mar_183.png", "mar_184.png", "mar_185.png", "mar_186.png", "mar_187.png", "mar_188.png", "mar_189.png", "mar_190.png", "mar_191.png", "mar_192.png", "mar_193.png", "mar_194.png", "mar_195.png", "mar_196.png", "mar_197.png", "mar_198.png", "mar_199.png", "mar_200.png", "mar_201.png", "mar_202.png", "mar_203.png", "mar_204.png", "mar_205.png", "mar_206.png", "mar_207.png", "mar_208.png", "mar_209.png", "mar_210.png", "mar_211.png", "mar_212.png", "mar_213.png", "mar_214.png", "mar_215.png", "mar_216.png", "mar_217.png", "mar_218.png", "mar_219.png", "mar_220.png", "mar_221.png", "mar_222.png", "mar_223.png", "mar_224.png", "mar_225.png", "mar_226.png", "mar_227.png", "mar_228.png", "mar_229.png", "mar_230.png", "mar_231.png"]
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "mario.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 128,
+			"h": 806
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:da21ca8623103c14f410ebecd84f3b0b:beb2ff3276224094b7448624c301615b:049a1e10ddf44989e4af4e84fecd01e8$"
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "name": "whatgame",
+  "version": "1.0.0",
+  "description": "h",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babylonjs": "^4.0.3",
+    "pixi": "^0.3.1",
+    "pixl": "0.0.1"
+  }
+}

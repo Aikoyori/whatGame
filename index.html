@@ -1,0 +1,338 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Game</title>
+</head>
+<style>
+  * {
+    padding: 0;
+    margin: 0
+  }
+
+  #game {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  #game {
+    display: flex;
+
+    justify-content: center;
+    background-color: gainsboro;
+  }
+</style>
+<script src="pixi/pixi.min.js"></script>
+
+<body>
+  <div id="game"></div>
+  <script type="text/javascript">
+    let type = "WebGL"
+
+    if (!PIXI.utils.isWebGLSupported()) {
+      type = "canvas"
+    }
+    WIDTH = 320
+    HEIGHT = 240
+    let GRAVITY = 9.8;
+    //Create a Pixi Application
+    let app = new PIXI.Application({
+      width: WIDTH, // default: 800
+      height: HEIGHT, // default: 600
+      antialias: true, // default: false
+      transparent: false, // default: false
+      resolution: 1 // default: 1
+    });
+
+    app.renderer.autoResize = true;
+    document.querySelector('#game').appendChild(app.view);
+    app.renderer.backgroundColor = 0x061639;
+    app.renderer.view.style.position = "absolute";
+    app.renderer.view.style.display = "block";
+    PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.NEAREST;
+
+    window.addEventListener("resize", resize(app));
+    PIXI.loader
+      .add("images/mario.json")
+      .add("images/tiles.json")
+      .on("progress", loadProgressHandler)
+      .load(setup);
+    let container = new PIXI.Container();
+    app.stage.addChild(container);
+
+    function setup() {
+      let sh = PIXI.loader.resources["images/mario.json"].textures;
+      let tx = PIXI.loader.resources["images/tiles.json"].textures;
+      
+      let def=sh["mar_001.png"]
+      var sprite = new PIXI.Sprite(sh["mar_001.png"]);
+      var tilingSprite = new PIXI.extras.TilingSprite(tx["tileset_193.png"], WIDTH, HEIGHT);
+      container.addChild(tilingSprite);
+      sprite.x = 120
+      sprite.y = 200
+      sprite.vx = 0;
+      sprite.vy = 0;
+      sprite.ax = 0;
+      sprite.ay = 0;
+      var walking = false;
+      var press = false;
+      sprite.speedLimit = 0.2;
+      sprite.accel = 0.005;
+      sprite.decel = 0.05;
+      sprite.anchor.set(0.5, 1);
+      container.addChild(sprite);
+      let left = keyboard("ArrowLeft");
+      let right = keyboard("ArrowRight");
+      let up = keyboard("ArrowUp");
+      let down = keyboard("ArrowDown");
+      let jump = keyboard("Shift");
+      //Set the game state
+      state = play;
+      let slowingDown = 0;
+      let jumping = 0;
+      left.press = () => {
+        sprite.scale.x = -1;
+          sprite.ax = -sprite.accel;
+      };
+      left.release = () => {
+        sprite.ax = 0;
+
+        slowingDown = -1;
+
+
+      };
+      right.press = () => {
+        sprite.scale.x = 1;
+          sprite.ax = sprite.accel;
+      };
+      right.release = () => {
+        sprite.ax = 0;
+        slowingDown = 1;
+      };
+
+      jump.press = () => {
+
+      };
+      jump.release = () => {
+
+      };
+
+      up.press = () => {
+        if (!down.isDown)
+          def = sh["mar_002.png"]
+      };
+      up.release = () => {
+        def = sh["mar_001.png"]
+        if (down.isDown)
+          def = sh["mar_003.png"]
+      };
+      down.press = () => {
+        if (!up.isDown)
+          def = sh["mar_003.png"]
+      };
+      down.release = () => {
+        def = sh["mar_001.png"]
+        if (up.isDown)
+          def = sh["mar_002.png"]
+      };
+      //Start the game loop 
+      app.ticker.add(delta => gameLoop(delta));
+
+      function gameLoop(delta) {
+
+        state(delta);
+      }
+
+      var walkAnimFrame = [sh["mar_005.png"],sh["mar_006.png"]]
+      var runAnimFrame = [sh["mar_007.png"],sh["mar_008.png"]]
+      var walkFrameTimer = 0;
+      function play(delta) {
+        sprite.texture=def
+        if (sprite.vx== 0)
+        {
+          console.log("no")
+          walking=false;
+          sprite.vx=0;
+        }
+        else
+        {
+          console.log("yes")
+          walking=true;
+        }
+        if (left.isDown||right.isDown)
+        {
+          console.log("no key")
+          press=false;
+        }
+        else
+        {
+          console.log("yes some or all")
+          press=true;
+        }
+        console.log(walkFrameTimer)
+        if(Math.abs(sprite.vx) + Math.abs(sprite.ax)<=sprite.speedLimit)
+        {
+        }
+        else
+        {
+          //sprite.vx=(sprite.speedLimit)*Math.abs(sprite.vx)/sprite.vx
+        }
+        sprite.vx += sprite.ax;
+        sprite.x += sprite.vx;
+        sprite.vy += sprite.ay;
+        sprite.y += sprite.vy;
+        if (walking&&!jumping&&Math.abs(sprite.vx)<0.8)
+        {
+          console.log("case 1")
+          sprite.texture = walkAnimFrame[Math.abs(parseInt(walkFrameTimer))%2]
+
+            walkFrameTimer+=(Math.abs(sprite.vx)/10);
+
+        }
+        else if (walking&&!jumping)
+        {
+          console.log("case 2")
+          
+          sprite.texture = runAnimFrame[Math.abs(parseInt(walkFrameTimer))%2]
+
+          walkFrameTimer+=(Math.abs(sprite.vx)/10);
+
+        }
+        else
+        {
+          console.log("case 3")
+          sprite.texture = def
+
+        }        
+
+        if (slowingDown == 1) {
+          console.log("slowing right")
+          if (right.isDown)
+          {
+            sprite.ax = -(sprite.accel)
+            sprite.vx = 0;
+            slowingDown=0
+
+          }
+          else if (sprite.vx > 0) {
+            sprite.ax = -(sprite.decel)
+
+          } else {
+            sprite.vx = 0;
+            sprite.ax = 0;
+            slowingDown = 0;
+          }
+        }
+
+        
+
+        if (slowingDown == -1) {
+          console.log("slowing left")
+          if (right.isDown)
+          {
+            sprite.ax = (sprite.accel)
+            sprite.vx = 0;
+            slowingDown=0
+
+          }
+          else if (sprite.vx > 0) {
+            sprite.ax = (sprite.decel)
+
+          } else {
+            sprite.vx = 0;
+            sprite.ax = 0;
+            slowingDown = 0;
+          }
+        }
+      }
+    }
+    resize(app)();
+
+    function loadProgressHandler() {
+
+    }
+
+    function keyboard(value) {
+      let key = {};
+      key.value = value;
+      key.isDown = false;
+      key.isUp = true;
+      key.press = undefined;
+      key.release = undefined;
+      //The `downHandler`
+      key.downHandler = event => {
+        if (event.key === key.value) {
+          if (key.isUp && key.press) key.press();
+          key.isDown = true;
+          key.isUp = false;
+          event.preventDefault();
+        }
+      };
+
+      //The `upHandler`
+      key.upHandler = event => {
+        if (event.key === key.value) {
+          if (key.isDown && key.release) key.release();
+          key.isDown = false;
+          key.isUp = true;
+          event.preventDefault();
+        }
+      };
+
+      //Attach event listeners
+      const downListener = key.downHandler.bind(key);
+      const upListener = key.upHandler.bind(key);
+
+      window.addEventListener(
+        "keydown", downListener, false
+      );
+      window.addEventListener(
+        "keyup", upListener, false
+      );
+
+      // Detach event listeners
+      key.unsubscribe = () => {
+        window.removeEventListener("keydown", downListener);
+        window.removeEventListener("keyup", upListener);
+      };
+
+      return key;
+    }
+    //Add the canvas that Pixi automatically created for you to the HTML document
+    function resize(app) {
+      return function () {
+        const vpw = window.innerWidth; // Width of the viewport
+        const vph = window.innerHeight; // Height of the viewport
+        let nvw; // New game width
+        let nvh; // New game height
+
+        // The aspect ratio is the ratio of the screen's sizes in different dimensions.
+        // The height-to-width aspect ratio of the game is HEIGHT / WIDTH.
+
+        if (vph / vpw < HEIGHT / WIDTH) {
+          // If height-to-width ratio of the viewport is less than the height-to-width ratio
+          // of the game, then the height will be equal to the height of the viewport, and
+          // the width will be scaled.
+          nvh = vph;
+          nvw = (nvh * WIDTH) / HEIGHT;
+        } else {
+          // In the else case, the opposite is happening.
+          nvw = vpw;
+          nvh = (nvw * HEIGHT) / WIDTH;
+        }
+
+        // Set the game screen size to the new values.
+        // This command only makes the screen bigger --- it does not scale the contents of the game.
+        // There will be a lot of extra room --- or missing room --- if we don't scale the stage.
+        app.renderer.resize(nvw, nvh);
+
+        // This command scales the stage to fit the new size of the game.
+        container.scale.set(nvw / WIDTH, nvh / HEIGHT);
+      };
+    }
+  </script>
+</body>
+
+</html>
