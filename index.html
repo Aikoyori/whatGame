@@ -65,8 +65,8 @@
     function setup() {
       let sh = PIXI.loader.resources["images/mario.json"].textures;
       let tx = PIXI.loader.resources["images/tiles.json"].textures;
-      
-      let def=sh["mar_001.png"]
+
+      let def = sh["mar_001.png"]
       var sprite = new PIXI.Sprite(sh["mar_001.png"]);
       var tilingSprite = new PIXI.extras.TilingSprite(tx["tileset_193.png"], WIDTH, HEIGHT);
       container.addChild(tilingSprite);
@@ -94,7 +94,7 @@
       let jumping = 0;
       left.press = () => {
         sprite.scale.x = -1;
-          sprite.ax = -sprite.accel;
+        sprite.ax = -sprite.accel;
       };
       left.release = () => {
         sprite.ax = 0;
@@ -105,7 +105,7 @@
       };
       right.press = () => {
         sprite.scale.x = 1;
-          sprite.ax = sprite.accel;
+        sprite.ax = sprite.accel;
       };
       right.release = () => {
         sprite.ax = 0;
@@ -145,78 +145,62 @@
         state(delta);
       }
 
-      var walkAnimFrame = [sh["mar_005.png"],sh["mar_006.png"]]
-      var runAnimFrame = [sh["mar_007.png"],sh["mar_008.png"]]
+      var walkAnimFrame = [sh["mar_005.png"], sh["mar_006.png"]]
+      var runAnimFrame = [sh["mar_007.png"], sh["mar_008.png"]]
       var walkFrameTimer = 0;
+
       function play(delta) {
-        sprite.texture=def
-        if (sprite.vx== 0)
-        {
+        sprite.texture = def
+        if (sprite.vx == 0) {
           console.log("no")
-          walking=false;
-          sprite.vx=0;
-        }
-        else
-        {
+          walking = false;
+          sprite.vx = 0;
+        } else {
           console.log("yes")
-          walking=true;
+          walking = true;
         }
-        if (left.isDown||right.isDown)
-        {
+        if (left.isDown || right.isDown) {
           console.log("no key")
-          press=false;
-        }
-        else
-        {
+          press = false;
+        } else {
           console.log("yes some or all")
-          press=true;
+          press = true;
         }
         console.log(walkFrameTimer)
-        if(Math.abs(sprite.vx) + Math.abs(sprite.ax)<=sprite.speedLimit)
-        {
-        }
-        else
-        {
+        if (Math.abs(sprite.vx) + Math.abs(sprite.ax) <= sprite.speedLimit) {} else {
           //sprite.vx=(sprite.speedLimit)*Math.abs(sprite.vx)/sprite.vx
         }
         sprite.vx += sprite.ax;
         sprite.x += sprite.vx;
         sprite.vy += sprite.ay;
         sprite.y += sprite.vy;
-        if (walking&&!jumping&&Math.abs(sprite.vx)<0.8)
-        {
+        if (walking && !jumping && Math.abs(sprite.vx) < 0.8) {
           console.log("case 1")
-          sprite.texture = walkAnimFrame[Math.abs(parseInt(walkFrameTimer))%2]
+          sprite.texture = walkAnimFrame[Math.abs(parseInt(walkFrameTimer)) % 2]
 
-            walkFrameTimer+=(Math.abs(sprite.vx)/10);
+          walkFrameTimer += (Math.abs(sprite.vx) / 10);
 
-        }
-        else if (walking&&!jumping)
-        {
+        } else if (walking && !jumping) {
           console.log("case 2")
-          
-          sprite.texture = runAnimFrame[Math.abs(parseInt(walkFrameTimer))%2]
 
-          walkFrameTimer+=(Math.abs(sprite.vx)/10);
+          sprite.texture = runAnimFrame[Math.abs(parseInt(walkFrameTimer)) % 2]
 
-        }
-        else
-        {
+          walkFrameTimer += (Math.abs(sprite.vx) / 10);
+
+        } else {
           console.log("case 3")
           sprite.texture = def
 
-        }        
+        }
 
         if (slowingDown == 1) {
           console.log("slowing right")
-          if (right.isDown)
-          {
+          if (right.isDown) {
             sprite.ax = -(sprite.accel)
             sprite.vx = 0;
-            slowingDown=0
+            slowingDown = 0
 
-          }
-          else if (sprite.vx > 0) {
+          } else if (sprite.vx > 0) {
             sprite.ax = -(sprite.decel)
 
           } else {
@@ -226,18 +210,16 @@
           }
         }
 
-        
+
 
         if (slowingDown == -1) {
           console.log("slowing left")
-          if (right.isDown)
-          {
+          if (right.isDown) {
             sprite.ax = (sprite.accel)
             sprite.vx = 0;
-            slowingDown=0
+            slowingDown = 0
 
-          }
-          else if (sprite.vx > 0) {
+          } else if (sprite.vx > 0) {
             sprite.ax = (sprite.decel)
 
           } else {
